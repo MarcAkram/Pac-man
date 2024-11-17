@@ -1,4 +1,5 @@
 import turtle
+
 window=turtle.Screen()
 window.bgcolor('black')
 window.setup(width=1366,height=768)
